@@ -3,7 +3,7 @@
     padding: 0px;
 }
 #topo{
-    height: 100px;
+    height: 80px;
     background-color: black;
 }
 #topo h1{
@@ -35,11 +35,35 @@
     color: white;
 }
 .conteudo{
-    padding-left: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 30px;
-    font-size: 25px;
+    font-size: 20px;
     background-color: #D8D8D8;
+    text-align: justify;
 }
-#conceito {
+.conteudo p {
+    padding-top: 15px;
+}
+.conteudo h2, h3{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+#dicas ul {
+    padding-left: 15px;
+}
+#dicas ul li {
+    padding-top: 10px;
+}
+#table {
+    width: 100%;
+    border: 1px solid black
+}
+#table td {
+    height: 50px;
+    border: 1px solid black
+    }
+#linha1 {
+    text-align: center;
     
 }
