@@ -92,6 +92,7 @@
     color: white;
     font-size: 20px;
     text-align: center;
+    vertical-align: middle;
     }
 #diego {
     margin-bottom: 40px;
@@ -99,6 +100,7 @@
     padding-left: 30px;
     display: inline-block;
     text-align: justify;
+    vertical-align: middle;
   }
 #diego p{
     margin-top: 10px;
