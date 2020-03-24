@@ -85,3 +85,26 @@
 #links p{
     margin-top: 15px;
 }
+.footer {
+    height: 30px;
+    background: #3c4859;
+    padding: 10px 100px 20px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    }
+#diego {
+    margin-bottom: 40px;
+    text-align: center;
+    padding-left: 30px;
+    display: inline-block;
+    text-align: justify;
+  }
+#diego p{
+    margin-top: 10px;
+}
+#diego a{
+  
+    margin-top: 0px;
+    text-align: start;
+}
