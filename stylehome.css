@@ -110,3 +110,25 @@ nav ul li a{
     margin-top: 0px;
     text-align: start;
 }
+.nodress {
+    display: inline-block;
+}
+.nodress p{
+    vertical-align: top;
+    padding-top: 0;
+}
+#imagenodress {
+    float: left;
+    margin-right: 15px;
+}
+.isolamento {
+    display: inline-block;
+}
+.isolamento p{
+    vertical-align: top;
+    padding-top: 0;
+}
+#fotoisolamento {
+    float: right;
+    margin-left: 15px;
+}
