@@ -8,6 +8,7 @@ header {
     font-family: 'Roboto', sans-serif;
     line-height: 3.2rem;
     letter-spacing: 1.05em;
+    
 }
 header h1{
     color: white;
@@ -18,9 +19,10 @@ header h1{
 nav {
     position: sticky;
     top: 0;
+    
 }
 nav ul{
-    background-color: cornflowerblue;
+    background-color: #585858;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -33,7 +35,7 @@ nav ul li{
     font-weight: bold;
 }
 nav ul li:hover{
-    background-color: #0B173B;
+    background-color: black;
 }
 nav ul li a{
     text-decoration: none;
@@ -48,7 +50,7 @@ nav ul li a{
     padding-right: 170px;
     padding-top: 10px;
     font-size: 20px;
-    background-color: #EFFFFE;
+    background-color: #F2F2F2;
     text-align: justify;
     color: rgba(0,0,0,.75);
     font-family: 'Source Serif Pro', serif;
@@ -115,6 +117,8 @@ nav ul li a{
 }
 .nodress p{
     vertical-align: top;
+    font-size: 20px;
+    font-family: 'Source Serif Pro', serif;
     padding-top: 0;
 }
 #imagenodress {
@@ -126,6 +130,8 @@ nav ul li a{
 }
 .isolamento p{
     vertical-align: top;
+    font-size: 20px;
+    font-family: 'Source Serif Pro', serif;
     padding-top: 0;
 }
 #fotoisolamento {
