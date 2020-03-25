@@ -2,29 +2,29 @@
     margin: 0px;
     padding: 0px;
 }
-.topo1{
+header {
     height: 80px;
     background-color: black;
     font-family: 'Roboto', sans-serif;
     line-height: 3.2rem;
     letter-spacing: 1.05em;
 }
-.topo1 h1{
+header h1{
     color: white;
     font-size: 50px;
     padding-top: 10px;
     text-align: center;
 }
-#menu {
+nav {
     position: sticky;
     top: 0;
 }
-#menu ul{
+nav ul{
     background-color: cornflowerblue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-#menu ul li{
+nav ul li{
     display: inline-table;
     padding: 5px 50px;
     margin: 0px 0px;
@@ -32,10 +32,10 @@
     font-size: 18px;
     font-weight: bold;
 }
-#menu ul li:hover{
+nav ul li:hover{
     background-color: #0B173B;
 }
-#menu ul li a{
+nav ul li a{
     text-decoration: none;
     color: white;
 }
@@ -94,7 +94,7 @@
     text-align: center;
     vertical-align: middle;
     }
-#diego {
+.diego {
     margin-bottom: 40px;
     text-align: center;
     padding-left: 30px;
@@ -102,10 +102,10 @@
     text-align: justify;
     vertical-align: middle;
   }
-#diego p{
+.diego p{
     margin-top: 10px;
 }
-#diego a{
+.diego a{
   
     margin-top: 0px;
     text-align: start;
