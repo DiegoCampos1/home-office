@@ -13,7 +13,6 @@ body {
   letter-spacing: 1.00em;
   line-height: 3.2rem;
   padding: 0;
-  
   width: 100%;
 }
 
@@ -26,7 +25,6 @@ body {
 }
 
 nav {
-  
   position: sticky;
   top: 0;
   width: 100%;
@@ -36,7 +34,8 @@ nav ul {
   background-color: rgba( 88 , 88 , 88 , 1 );
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin = 0;
+  padding: 0;
+  margin:0;
 }
 
 nav ul li {
@@ -160,7 +159,6 @@ nav ul li a {
 }
 #dicas ol li {
   padding-top: 15px;
-  
 }
 
 .isolamento img {
