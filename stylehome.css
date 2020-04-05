@@ -65,8 +65,8 @@ nav ul li a {
   color: rgba( 0 , 0 , 0 , 0.75 );
   font-family: Source serif Pro, serif;
   font-size: 20px;
-  padding-left: 170px;
-  padding-right: 170px;
+  padding-left: 15%;
+  padding-right: 15%;
   padding-top: 10px;
   text-align: left;
 }
